@@ -1,10 +1,10 @@
 class Devforge < Formula
   desc "Developer-environment automation bootstrapper"
   homepage "https://github.com/HarishNarasimhanK/dev-forge"
-  url "https://github.com/HarishNarasimhanK/dev-forge/archive/refs/tags/v0.1.9.tar.gz"
-  sha256 "1c548910cd9beb96fb0116c360cbe24b3d8479a9ff56f03a295632342a676b65"
+  url "https://github.com/HarishNarasimhanK/dev-forge/archive/refs/tags/v0.1.10.tar.gz"
+  sha256 "02f43e80631d750ab6a407f75449c214f70bcf2d4867a3c494844ce865642e88"
   license "MIT"
-  version "0.1.9"
+  version "0.1.10"
 
   def install
     # Dynamically update the version string inside the wrapper script
